@@ -14,6 +14,7 @@ class ViewController: UIViewController {
       print("hello")
         print("hello")
         print("hello swmay")
+        print("hello swmay to remote")
     }
 
 
